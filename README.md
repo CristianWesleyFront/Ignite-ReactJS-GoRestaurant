@@ -1,7 +1,7 @@
 #DT Money
 
 <h1 align="center">
-  <img src="" width="65%">
+  <img src="https://raw.githubusercontent.com/CristianWesleyFront/Ignite-ReactJS-GoRestaurant/master/public/print.png" width="65%">
 </h1>
 
 ## 🚀 Indice
