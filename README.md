@@ -1,4 +1,4 @@
-#DT Money
+## Go Restaurant
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/CristianWesleyFront/Ignite-ReactJS-GoRestaurant/master/public/print.png" width="65%">
